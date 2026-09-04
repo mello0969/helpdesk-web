@@ -4,7 +4,7 @@
  * quando for para produção, ex:
  * const API_URL = 'https://seu-helpdesk-api.onrender.com';
  */
-const API_URL = 'http://localhost:4000';
+const API_URL = 'https://helpdesk-api-t2ka.onrender.com';
 
 /**
  * Wrapper de fetch que já injeta o token JWT salvo no localStorage
